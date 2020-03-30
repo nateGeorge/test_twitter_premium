@@ -1,0 +1,5 @@
+search_tweets_api:
+    account_type: premium
+    endpoint: <FULL_URL_OF_ENDPOINT> # see readme
+    consumer_key: <CONSUMER_KEY> # API key
+    consumer_secret: <CONSUMER_SECRET> # API secret key
